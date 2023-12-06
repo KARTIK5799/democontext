@@ -11,7 +11,7 @@ function App() {
     <UserContextProvider>
 
 
-   <div className='flex justify-center align-center'>
+   <div className='flex'>
    <Login/>
     <Profile/>
    </div>
